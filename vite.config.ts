@@ -16,7 +16,7 @@ export default defineConfig({
             src: "maskable_icon_x192.png",
             sizes: "196x196",
             type: "image/png",
-            // purpose: "any maskable",
+            purpose: "any maskable",
           },
         ],
       },
